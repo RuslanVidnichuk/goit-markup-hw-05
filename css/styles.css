@@ -517,6 +517,7 @@ body {
   left: 0;
   width: 370px;
   height: 100%;
+  overflow: auto;
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
