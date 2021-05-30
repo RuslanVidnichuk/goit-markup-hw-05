@@ -101,7 +101,7 @@ body {
 .nav-link.current::after {
   position: absolute;
   left: 0;
-  bottom: 0;
+  bottom: -0.3px;
   content: "";
   display: block;
   width: 100%;
